@@ -1,0 +1,1 @@
+Hello there!! This project is quiz app made by me during nog.camp bootcamp. This ia a CLI(command line interface) app about Indian History and Freedom Struggle. Here you will be able to test your knowledge about historical events happened in past. So enjoy using this app.
